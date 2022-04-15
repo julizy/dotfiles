@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = dellazhuye@gmail.com
+	name = Ye Zhu
